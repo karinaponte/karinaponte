@@ -10,6 +10,6 @@ My name is Karina Ponte and I absolutely love Technology!
 - 🌎 I'm from São Paulo / Brazil
 - 🎮 I like to play video games
 - 💜 I'm a Star Wars fan
-- 💻 **Languages:** HTML, CSS, JavaScript, Node.js and looking forward to learn even more!
+- 💻 **Languages:** HTML, CSS, JavaScript and looking forward to learn even more!
 - 🔧 **Tools:** Visual Studio Code, GitHub
 - 🎓 **Academic:** Bachelor in Computer Science and Biology 
